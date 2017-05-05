@@ -1,2 +1,3 @@
 # 003-testing
-this test
+this is a test
+To show how commits work
